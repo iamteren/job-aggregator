@@ -1,0 +1,8 @@
+secrets.py
+*.env
+.env
+config_secrets.py
+*_secrets.py
+__pycache__/
+*.pyc
+function.zip
