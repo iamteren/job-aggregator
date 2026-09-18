@@ -1,0 +1,5 @@
+export AWS_ACCOUNT_ID="552533871472"
+export AWS_REGION="us-east-1"
+export BUCKET_NAME="job-listings-552533871472"
+export ROLE_ARN="arn:aws:iam::552533871472:role/lambda-job-aggregator-role"
+export SCHEDULER_ROLE_ARN="arn:aws:iam::552533871472:role/eventbridge-job-scheduler-role"
